@@ -1,0 +1,21 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "plusBeta": false,
+    "isCreatingSolution": true,
+    "nodeVersion": "18.17.1",
+    "sdksVersions": {
+      "@microsoft/microsoft-graph-client": "3.0.2",
+      "@microsoft/teams-js": "2.12.0"
+    },
+    "version": "1.18.2",
+    "libraryName": "share-master-apps",
+    "libraryId": "a7808efc-9704-4f29-ab8e-bc4c863be9e8",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionName": "ShareMaster-apps",
+    "solutionShortDescription": "ShareMaster-apps description",
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "componentType": "webpart"
+  }
+}

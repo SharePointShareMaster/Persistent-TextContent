@@ -1,0 +1,40 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "ShareMaster Add-ons",
+    "id": "a7808efc-9704-4f29-ab8e-bc4c863be9e8",
+    "version": "1.0.0.3",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "developer": {
+      "name": "",
+      "websiteUrl": "",
+      "privacyUrl": "",
+      "termsOfUseUrl": "",
+      "mpnId": "Undefined-1.18.2"
+    },
+    "metadata": {
+      "shortDescription": {
+        "default": "ShareMaster-apps description"
+      },
+      "longDescription": {
+        "default": "ShareMaster-apps description"
+      },
+      "screenshotPaths": [],
+      "videoUrl": "",
+      "categories": []
+    },
+    "features": [
+      {
+        "title": "share-master-apps Feature",
+        "description": "The feature that activates elements of the share-master-apps solution.",
+        "id": "809b9239-1730-4a68-9d7c-431d6bde8ea2",
+        "version": "1.0.0.0"
+      }
+    ]
+  },
+  "paths": {
+    "zippedPackage": "solution/share-master-apps.sppkg"
+  }
+}

@@ -1,0 +1,1 @@
+{"version":3,"file":"IShareMasterWysiwygProps.d.ts","sourceRoot":"","sources":["../../../../src/webparts/shareMasterWysiwyg/components/IShareMasterWysiwygProps.ts"],"names":[],"mappings":"AAAA,OAAO,EAAG,IAAI,EAAE,MAAM,SAAS,CAAC;AAEhC,MAAM,WAAW,wBAAwB;IACvC,IAAI,EAAE,IAAI,CAAC;IACX,UAAU,EAAE,MAAM,CAAC;IACnB,QAAQ,EAAE,GAAG,CAAC;IACd,QAAQ,EAAE,OAAO,CAAA;CAClB"}
