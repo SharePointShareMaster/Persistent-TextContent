@@ -750,21 +750,21 @@
 }
 
 .sun-editor .se-list-layer.se-list-format ul h2 {
-    font-size: 1.5em;
-    font-weight: 700;
-    color: #333
+    font-weight: 600 !important;
+    margin: 0 0 12px;
+    font-size: 28px;
 }
 
 .sun-editor .se-list-layer.se-list-format ul h3 {
-    font-size: 1.17em;
-    font-weight: 700;
-    color: #333
+    margin: 0 0 12px;
+    font-weight:600 !important;
+    font-size: 24px;
 }
 
 .sun-editor .se-list-layer.se-list-format ul h4 {
-    font-size: 1em;
-    font-weight: 700;
-    color: #333
+    margin: 0 0 12px;
+    font-weight:600 !important;
+    font-size: 20px;
 }
 
 .sun-editor .se-list-layer.se-list-format ul h5 {
@@ -2426,43 +2426,60 @@
 }
 
 .sun-editor-editable h1 {
-    font-size: 2em;
-    margin-block-start:.67em;margin-block-end:.67em}
+    font-size: 30px;
+    font-weight: 600 !important;
+    margin: 0 0 12px;
+}
 
 .sun-editor-editable h1,.sun-editor-editable h2 {
     display: block;
-    margin-inline-start:0;margin-inline-end:0;font-weight: 700
+    font-weight: 600 !important;
+    margin: 0 0 12px;
 }
 
 .sun-editor-editable h2 {
-    font-size: 1.5em;
-    margin-block-start:.83em;margin-block-end:.83em}
+    font-size: 28px;
+    font-weight: 600 !important;
+    margin: 0 0 12px;
+
+}
 
 .sun-editor-editable h3 {
-    font-size: 1.17em;
-    margin-block-start:1em;margin-block-end:1em}
+    font-size: 24px;
+    font-weight: 600 !important;
+    margin: 0 0 12px;    
+}
 
 .sun-editor-editable h3,.sun-editor-editable h4 {
     display: block;
-    margin-inline-start:0;margin-inline-end:0;font-weight: 700
+    font-weight: 600 !important;
+    margin: 0 0 12px;
 }
 
 .sun-editor-editable h4 {
-    font-size: 1em;
-    margin-block-start:1.33em;margin-block-end:1.33em}
+    font-size: 20px;
+    font-weight: 600 !important;
+    margin: 0 0 12px;
+
+}
 
 .sun-editor-editable h5 {
     font-size: .83em;
-    margin-block-start:1.67em;margin-block-end:1.67em}
+    font-weight: 600 !important;
+    margin: 0 0 12px;
+}
 
 .sun-editor-editable h5,.sun-editor-editable h6 {
     display: block;
-    margin-inline-start:0;margin-inline-end:0;font-weight: 700
+    font-weight: 600 !important;
+    margin: 0 0 12px;
 }
 
 .sun-editor-editable h6 {
     font-size: .67em;
-    margin-block-start:2.33em;margin-block-end:2.33em}
+    font-weight: 600 !important;
+    margin: 0 0 12px;
+}
 
 .sun-editor-editable hr {
     display: flex;

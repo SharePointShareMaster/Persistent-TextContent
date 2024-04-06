@@ -19,14 +19,14 @@
         "default": "Advanced"
       },
       "title": {
-        "default": "ShareMaster WYSIWYG"
+        "default": "ShareMaster Persistent Text Content"
       },
       "description": {
-        "default": "ShareMaster WYSIWYG Text Conntent"
+        "default": "ShareMaster Persistent Text Content - ShareMaster companion add-on "
       },
       "officeFabricIconFontName": "TextBox",
       "properties": {
-        "description": "ShareMaster WYSIWYG"
+        "description": "ShareMaster Persistent Text Content"
       }
     }
   ],
@@ -38,7 +38,7 @@
     "scriptResources": {
       "share-master-wysiwyg-web-part": {
         "type": "path",
-        "path": "share-master-wysiwyg-web-part_b00ba50ca07bfa80d7cf.js"
+        "path": "share-master-wysiwyg-web-part_3b9105dd760c535b30e3.js"
       },
       "@microsoft/sp-core-library": {
         "type": "component",

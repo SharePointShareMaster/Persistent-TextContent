@@ -3,7 +3,7 @@
   "solution": {
     "name": "ShareMaster Add-ons",
     "id": "a7808efc-9704-4f29-ab8e-bc4c863be9e8",
-    "version": "1.0.0.3",
+    "version": "1.0.0.7",
     "includeClientSideAssets": true,
     "skipFeatureDeployment": true,
     "isDomainIsolated": false,

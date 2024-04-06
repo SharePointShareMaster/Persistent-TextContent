@@ -18,11 +18,11 @@
   "preconfiguredEntries": [{
     "groupId": "5c03119e-3074-46fd-976b-c60198311f70", // Advanced
     "group": { "default": "Advanced" },
-    "title": { "default": "ShareMaster WYSIWYG" },
-    "description": { "default": "ShareMaster WYSIWYG Text Conntent" },
+    "title": { "default": "ShareMaster Persistent Text Content" },
+    "description": { "default": "ShareMaster Persistent Text Content - ShareMaster companion add-on " },
     "officeFabricIconFontName": "TextBox",
     "properties": {
-      "description": "ShareMaster WYSIWYG"
+      "description": "ShareMaster Persistent Text Content"
     }
   }]
 }
